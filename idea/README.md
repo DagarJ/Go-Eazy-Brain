@@ -1,4 +1,4 @@
-The intent of our idea is to benefit the EdTech industry with the aid of available modern technologies especially the rural children. We will build a web app where users can register themselves and perform activities as following:
+The intent of our idea is to benefit the EdTech industry  especially the rural children with the aid of available modern technologies. We will build a web app where users can register themselves and perform activities as following:
 1. enroll for the available courses & track progress (use of SQL server DB for courses data)
 2. predict their career fields at the end of courses considering their performance so far,if they are not satisfied with the result they can go for recommended courses      to improve their score for a particular career field(use of ML for prediction)
 3. self evaluation can be taken by students themselves to test their knowledge(no need to depend on teacher's quiz or test) (use of ML for generating quizes)
